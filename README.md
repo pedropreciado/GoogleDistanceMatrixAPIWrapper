@@ -1,7 +1,6 @@
 # GoogleDistanceMatrixAPIWrapper
 
-GoogleDistanceMatrixAPIWrapper is a CLI used to send and receive simple requests to Google's API.
-This wrapper parses through the response and returns the information in an easy-to-read format.
+GoogleDistanceMatrixAPIWrapper is a CLI used to send and receive simple requests to Google's API. This wrapper parses through the response and returns the information in an easy-to-read format. Built with Ruby and the rest-client gem.
 
 ## Setup
 
