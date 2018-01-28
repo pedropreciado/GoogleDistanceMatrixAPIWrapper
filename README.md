@@ -12,3 +12,8 @@ On the command line:
 + Run `bundle install`
 + Run `ruby wrapper.rb`
 + Follow the prompt
+
+## Features to be Added
+
++ Ability to add several destinations
++ Front-end UI interface

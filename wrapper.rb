@@ -9,7 +9,7 @@ system("clear")
 puts "Enter your GoogleMaps API Key:"
 key = gets.chomp
 
-puts "Enter current address:"
+puts "Enter starting address:"
 origin = gets.chomp
 
 puts "Enter destination address:"
